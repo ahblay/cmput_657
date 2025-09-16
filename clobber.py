@@ -1,4 +1,3 @@
-from mcts import Node, MCTS
 import proof_number as pn
 import minimax
 import string
